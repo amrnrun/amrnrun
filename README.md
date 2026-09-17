@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ubayamrinur
-- 📫 How to reach me amri.nur@me.com
+- 👋 Hi, I’m amrnru
+- 📫 How to reach me amrnru@gmail.com
 
 <!---
 ubayamrinur/ubayamrinur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
